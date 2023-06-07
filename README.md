@@ -1,8 +1,6 @@
 # A CRUD-Based CLI Application
 
-In this activity, you'll complete your CLI application by adding functions to update and delete data from a database.
-
-## Instructions
+In this activity, I complete the CLI application by adding functions to update and delete data from a database.
 
 1. Under the “UPDATE” docstring, create a function named `update_data` that accepts the following parameters: `table_name`, `column`, `new_value`, and `old_value`.
 
@@ -19,4 +17,4 @@ In this activity, you'll complete your CLI application by adding functions to up
     * In the `DELETE` statement, include the `DELETE FROM` and `WHERE` SQL keywords.
 
     * Include the statement that calls the engine to execute the `DELETE` statement.
-# Module_19_Challenge
+
